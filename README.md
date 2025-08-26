@@ -1,1 +1,1 @@
-# Blendshape-Mask-Tool
+# BlendShape-Mask-Tool
