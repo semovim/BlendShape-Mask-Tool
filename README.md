@@ -114,4 +114,4 @@ Both must be placed inside the `data/` folder.
 
 ## 📝 Notes
 
-- Base mesh names must match the keys in `expression_masks.json`.
+- Base mesh names must match the MetaHuman Expression Editor node names.
